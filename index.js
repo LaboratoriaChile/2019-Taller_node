@@ -1,3 +1,3 @@
-const {fetchDog, fetchCat} = require('lib/fetchAnimals');
+const {fetchDog, fetchCat} = require('./lib/fetchAnimals');
 
 module.exports = {fetchCat, fetchDog};
