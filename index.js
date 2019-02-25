@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const {fetchDog, fetchCat} = require('./lib/fetchAnimals');
 
 if(require.main === module){
